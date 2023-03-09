@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# create directory
+mkdir /tmp/my_first_directory
+
+# display success message
+echo "Directory 'my_first_directory' created in /tmp/"
